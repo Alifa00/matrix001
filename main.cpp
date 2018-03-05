@@ -173,8 +173,8 @@ int main() {
         cout << "An error has occured while reading input data" << '\n';
         return 0;
     }
+    
     switch (op) {
-            
         case '+':
         {
             a.read(f1);
